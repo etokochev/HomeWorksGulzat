@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  DZ4_3M
+//  domashka4Gulzat
 //
-//  Created by Nurlan Seitov on 3/3/23.
+//  Created by Erzhan Tokochev on 3/3/23.
 //
 
 import UIKit
